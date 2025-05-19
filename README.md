@@ -65,4 +65,4 @@
 - **Responsibility**: Student Companion (ISCP Programme, IIT Bombay)  
 - **Sports**: Played in Mumbai Football Association 3rd Division League  
 
-📄 [Download My CV (PDF)](.cv/Rohit_Prodhan_resume_3.pdf)
+📄 [Download My CV (PDF)](./Rohit_Prodhan_resume_3.pdf)
