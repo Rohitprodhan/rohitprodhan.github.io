@@ -61,7 +61,7 @@
 
 ## 🧩 Others
 
-- **Relevant Courses**: Artificial Intelligence and Data Science (PH227), FInancial Engineering (IE612)  
+- **Relevant Courses**: Artificial Intelligence and Data Science (PH227), Financial Engineering (IE612)  
 - **Responsibility**: Student Companion (ISCP Programme, IIT Bombay)  
 - **Sports**: Played in Mumbai Football Association 3rd Division League  
 
