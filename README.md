@@ -1,7 +1,7 @@
 # Rohit Prodhan
 
 **PhD Researcher, Physics — IIT Bombay**  
-📧 rohit.prodhan@iitb.ac.in | 📞 +91 9681681382  
+📧 rohit.prodhan@iitb.ac.in  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohitprodhan7/)
 
 ---
@@ -44,7 +44,7 @@
 
 ## 🛠️ Technical Skills & Interests
 
-- **Programming Languages**: Python, R, SQL  
+- **Programming Languages**: Python, C++  
 - **Libraries & Tools**: MATLAB, Matplotlib, NumPy, SciPy, Pandas, LTSpice, LaTeX  
 - **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, PyTorch  
 - **Risk Modelling**: Credit & Market Risk Modelling, Model Validation, Stress Testing
@@ -61,7 +61,7 @@
 
 ## 🧩 Others
 
-- **Relevant Courses**: Artificial Intelligence and Data Science (PH227, IITB)  
+- **Relevant Courses**: Artificial Intelligence and Data Science (PH227), FInancial Engineering (IE612)  
 - **Responsibility**: Student Companion (ISCP Programme, IIT Bombay)  
 - **Sports**: Played in Mumbai Football Association 3rd Division League  
 
