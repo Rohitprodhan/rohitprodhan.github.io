@@ -1,68 +1,54 @@
+---
+title: "Rohit Prodhan"
+theme: jekyll-theme-minimal
+---
+
 # Rohit Prodhan
 
-**PhD Researcher, Physics — IIT Bombay**  
-📧 rohit.prodhan@iitb.ac.in  
+**MS by Research Student in Physics, IIT Bombay**  
+📍 Mumbai, India  
+✉️ rohit.prodhan@iitb.ac.in  
+📄 [Download My CV (PDF)](./Rohit_Prodhan_resume_3.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohitprodhan7/)
 
 ---
 
-## 🎓 Education
+## 👋 About Me
 
-| Degree           | Institution               | Year     | CPI  |
-|------------------|---------------------------|----------|------|
-| PhD (Physics)    | IIT Bombay                | 2024–27  | 9.67 |
-| MSc (Physics)    | IIT Bombay                | 2022–24  | 9.14 |
-| BSc (Physics)    | Presidency University     | 2019–22  | 8.11 |
+I am currently pursuing an **MS by Research in Physics at IIT Bombay**. My academic background lies at the intersection of physics, computation, and applied mathematics—but I am equally passionate about **Machine Learning** and **Financial Engineering**.
 
----
+In my research, I am involved in two major projects:
 
-## 🧪 Experience
+- **Mean Field Models for Non-Equilibrium Systems**:  
+  This project focuses on modeling active matter using mean-field theory. It involves solving complex **nonlinear partial differential equations (PDEs)** using numerical methods—combining deep physical intuition with computational rigor.
 
-**PhD Researcher — IIT Bombay**  
-*Data-Driven Approach for Learning Hydrodynamic Equations (July 2024 – Present)*  
-- Developed coarse-graining techniques to extract hydrodynamic fields from microscopic simulation data.  
-- Applied basis expansion methods to smooth data and improve field variable representation.  
-- Implemented sparse regression to derive PDEs governing macroscopic dynamics.
+- **Data-Driven Discovery of Hydrodynamic Equations**:  
+  Here, I use **machine learning techniques** to predict coarse-grained hydrodynamic equations from **particle-level simulations**. This work lies at the intersection of physics-informed ML, statistical mechanics, and dynamical systems.
 
 ---
 
-## 💼 Projects
+## 💼 Career Interests
 
-### Time Series Analysis of Central Bank of India’s Stock Price  
-*Mentor: Biswajit Pani (Apr 2024 – May 2024)*  
-- Applied ARIMA and GARCH models to forecast stock trends.  
-- Visualized trends using Matplotlib and Pandas.  
-- Performed back-testing for model validation.
+I am actively seeking opportunities in:
+- **Quantitative Research** roles in the financial industry  
+- **Data Science** positions where I can leverage my analytical and modeling skills
 
-### Monte Carlo Simulation of Nematic Phase Transitions on 2D Lattices  
-*Guide: Prof. Amitabha Nandi (Aug 2023 – Nov 2023)*  
-- Simulated phase transitions of rigid rods on 2D square lattices.  
-- Identified nematic ordering and critical density ranges.  
-- Observed emergence of long-range order after 2800 MC steps.
+My interest in finance began during my coursework in **Advanced Statistical Mechanics**, where I was first introduced to **stochastic calculus**. This foundational knowledge led me to pursue a dedicated course in **Financial Engineering (IE612)**, where I deepened my understanding of financial models, derivatives, and risk analytics.
 
 ---
 
-## 🛠️ Technical Skills & Interests
+## 🚀 Ongoing Learning
 
-- **Programming Languages**: Python, C++  
-- **Libraries & Tools**: MATLAB, Matplotlib, NumPy, SciPy, Pandas, LTSpice, LaTeX  
-- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, PyTorch  
-- **Risk Modelling**: Credit & Market Risk Modelling, Model Validation, Stress Testing
+I'm currently exploring **Reinforcement Learning**, focusing on its applications in quantitative modeling. I’m following the **David Silver lecture series** and implementing key algorithms in Python.
+
+You can follow my learning journey here:  
+📘 [My RL Roadmap on Notion](https://rohitprodhan.notion.site/Reinforcement-Learning-Roadmap-1fb2641cd42f8085ad03f05354e5e7d7)
+---
+
+## 📎 Learn More
+
+For a detailed look at my research, skills, coursework, and projects, please refer to my [CV](./Rohit_Prodhan_resume_3.pdf).
 
 ---
 
-## 🏆 Achievements
-
-- CSIR NET JRF (AIR 221 out of 44,835) — June 2023  
-- JEST Physics I-PhD (AIR 69 out of 6,226) — 2022  
-- IIT JAM Physics (AIR 288 out of 12,740) — 2022
-
----
-
-## 🧩 Others
-
-- **Relevant Courses**: Artificial Intelligence and Data Science (PH227), Financial Engineering (IE612)  
-- **Responsibility**: Student Companion (ISCP Programme, IIT Bombay)  
-- **Sports**: Played in Mumbai Football Association 3rd Division League  
-
-📄 [Download My CV (PDF)](./Rohit_Prodhan_resume_3.pdf)
+Thank you for visiting!
