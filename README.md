@@ -1,8 +1,3 @@
----
-title: "Rohit Prodhan"
-theme: jekyll-theme-minimal
----
-
 # Rohit Prodhan
 
 **MS by Research Student in Physics, IIT Bombay**  
