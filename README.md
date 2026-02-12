@@ -1,6 +1,6 @@
 # Rohit Prodhan
 
-**MS by Research Student in Physics, IIT Bombay**  
+**PhD Physics, IIT Bombay**  
 📍 Mumbai, India  
 ✉️ rohit.prodhan@iitb.ac.in  
 📄 [Download My CV (PDF)](./Rohit_Prodhan_resume_3.pdf)  
@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I am currently pursuing an **MS by Research in Physics at IIT Bombay**. My academic background lies at the intersection of physics, computation, and applied mathematics—but I am equally passionate about **Machine Learning** and **Financial Engineering**.
+I am currently doing my **PhD in Statistical Physics at IIT Bombay**. My academic background lies at the intersection of physics, computation, and applied mathematics—but I am equally passionate about **Machine Learning** and **Financial Engineering**.
 
 In my research, I am involved in two major projects:
 
@@ -30,14 +30,17 @@ I am actively seeking opportunities in:
 
 My interest in finance began during my coursework in **Advanced Statistical Mechanics**, where I was first introduced to **stochastic calculus**. This foundational knowledge led me to pursue a dedicated course in **Financial Engineering (IE612)**, where I deepened my understanding of financial models, derivatives, and risk analytics.
 
+Also, I have engaged in coursework that bridges data science and AI, including **AI and Data Science (PH227)**, **Markov Decision Processes (IE708)**, and **Reinforcement Learning Algorithms** (IE620, ongoing).
+
+
 ---
 
 ## 🚀 Ongoing Learning
 
-I'm currently exploring **Reinforcement Learning**, focusing on its applications in quantitative modeling. I’m following the **David Silver lecture series** and implementing key algorithms in Python.
+I'm currently exploring **Reinforcement Learning** and its applications in quantitative modeling. I’m following the **David Silver lecture series** and implementing key algorithms in Python.
 
 You can follow my learning journey here:  
-📘 [My RL Roadmap on Notion](https://rohitprodhan.notion.site/Reinforcement-Learning-Roadmap-1fb2641cd42f8085ad03f05354e5e7d7)
+📘 [My RL Roadmap on Github](https://github.com/Rohitprodhan/RL-roadmap)
 ---
 
 ## 📎 Learn More
